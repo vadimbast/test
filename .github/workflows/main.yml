@@ -12,4 +12,4 @@ jobs:
       with:
         server: vadimdud.ftp.tools
         username: vadimdud_deploy
-        password: ${{ 12398768 }}
+        password: ${{ FTP_PASSWORD }}
