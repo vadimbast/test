@@ -11,5 +11,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: vadimdud.ftp.tools
-        username: vadimdud_deploy
+        username: VADIMDUD_DEPLOY
         password: ${{ secrets.ftp_password }}
