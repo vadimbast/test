@@ -12,4 +12,4 @@ jobs:
       with:
         server: vadimdud.ftp.tools
         username: VADIMDUD_DEPLOY
-        password: ${{ secrets.ftp_password }}
+        password: ${{ LATINA1898 }}
